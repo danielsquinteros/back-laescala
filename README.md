@@ -1,4 +1,4 @@
-### Código fuente Centro Médico - Inventario
+### Código fuente Proyecto La Escala - Sistema de Inventario
 
 ```
 npm install
